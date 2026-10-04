@@ -1,0 +1,6 @@
+{
+  "name": "SkillCheck AI",
+  "description": "Student Prior Learning Recognition and Skill Gap Analysis platform to assess existing skills, identify gaps, and generate personalized learning roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
